@@ -49,14 +49,19 @@ Reload IIS (Open IIS, Stop and Start the server)
 
 
 <h2>Installation Steps</h2>
+
 Install osTicket v1.15.8
+
 Download osTicket from the Installation Files Folder
+
 Extract and copy “upload” folder to c:\inetpub\wwwroot
+
 Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
 
 Reload IIS (Open IIS, Stop and Start the server)
 
 Go to sites -> Default -> osTicket
+
 On the right, click “Browse *:80”
 
 
