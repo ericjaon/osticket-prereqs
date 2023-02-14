@@ -136,6 +136,6 @@ Click “Install Now!”
 <p>
 Congratulations, hopefully it is installed with no errors!
 
-.
+
 </p>
 <br />
